@@ -1,0 +1,21 @@
+
+# ignore all logs
+
+*.log
+
+# ignore packages
+
+node_modules
+jspm_packages
+
+# ignore maps
+
+*.js.map
+
+# ignore idea files
+
+.idea
+
+# cache files ignored
+
+.awcache
